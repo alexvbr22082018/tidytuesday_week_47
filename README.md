@@ -2,6 +2,6 @@
 
 This is my first time participating in a tidytuesday, please let me know how can I improve my work. Comments about how did I achived the results are inside my R scripts, let me know if something it¿s not clear.
 
-
+![](https://github.com/alexvbr22082018/tidytuesday_week_47/blob/master/best_bird.png)
 
   
